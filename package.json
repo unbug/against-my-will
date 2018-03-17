@@ -1,8 +1,8 @@
 {
   "name": "against-my-will",
   "description": "Against My Will.",
-  "version": "0.0.1",
-  "license": "MIT",
+  "version": "0.0.2",
+  "license": "SNTS",
   "main": "index.js",
   "repository": "unbug/against-my-will",
   "author": {
