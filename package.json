@@ -1,0 +1,22 @@
+{
+  "name": "against-my-will",
+  "description": "Against My Will.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "unbug/against-my-will",
+  "author": {
+    "name": "unbug",
+    "email": "tidelgl@gmail.com",
+    "url": "https://github.com/unbug"
+  },
+  "keywords": [
+    "Against My Will"
+  ],
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "devDependencies": {},
+  "scripts": {}
+}
